@@ -10,48 +10,48 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Matthew Chuong',
+  subtitle: 'JavaScript Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  img: 'IMG_4028.JPG',
+  paragraphOne: 'Hello, I have been in the web development field professionally for 3 years.',
+  paragraphTwo: 'I have a broad range of experiences from insurance to parking.',
+  paragraphThree: 'I enjoy trying to eat at new restaurants, and traveling.',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Corona Virus Stats.png',
+    title: 'Covid19 Virus Stats',
+    info: 'A website to keep track on how the virus is affecting the world and country daily.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://mc-coronavirusstats.netlify.app/Country',
+    repo: 'https://github.com/mchuong1/CoronaVirusStats', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'dayInthelife.png',
+    title: 'Day In The Life',
+    info: "An application that will let you see what it's like to be someone else for the day.",
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://day-in-the-life-dev.herokuapp.com/',
+    repo: 'https://github.com/the7establishment/DayInTheLife', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'TipsyBarBoca.png',
+    title: 'Tipsy Nailbar Boca Raton',
+    info: 'A normal 5 page website to attract customers and give more presence for Tipsy Nailbar in Boca Raton',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://tipsynailbarboca.com/',
+    repo: 'https://github.com/mchuong1/tipsy-boca-raton', // if no repo, the button will not show up
   },
 ];
 
@@ -59,31 +59,31 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'mchuong1993@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/matthew-chuong-38b551157/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/mchuong1',
     },
   ],
 };
