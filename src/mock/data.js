@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://tipsynailbarboca.com/',
     repo: 'https://github.com/mchuong1/tipsy-boca-raton', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'vnmiScreenshot.png',
+    title: 'V&Mi Nail Salon',
+    info: 'A website for a local business to showcase their services and products.',
+    info2: '',
+    url: 'https://www.vnminailspa.com/',
+    repo: 'https://github.com/mchuong1/vminailspa',
+  },
 ];
 
 // CONTACT DATA
