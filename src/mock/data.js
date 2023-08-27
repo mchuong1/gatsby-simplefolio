@@ -35,15 +35,15 @@ export const projectsData = [
   //   url: 'https://mc-coronavirusstats.netlify.app/Country',
   //   repo: 'https://github.com/mchuong1/CoronaVirusStats', // if no repo, the button will not show up
   // },
-  {
-    id: nanoid(),
-    img: 'dayInthelife.png',
-    title: 'Day In The Life',
-    info: "An application that will let you see what it's like to be someone else for the day.",
-    info2: '',
-    url: 'https://day-in-the-life-dev.herokuapp.com/',
-    repo: 'https://github.com/the7establishment/DayInTheLife', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'dayInthelife.png',
+  //   title: 'Day In The Life',
+  //   info: "An application that will let you see what it's like to be someone else for the day.",
+  //   info2: '',
+  //   url: 'https://day-in-the-life-dev.herokuapp.com/',
+  //   repo: 'https://github.com/the7establishment/DayInTheLife', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'TipsyBarBoca.png',
