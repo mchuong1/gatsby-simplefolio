@@ -26,15 +26,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'Corona Virus Stats.png',
-    title: 'Covid19 Virus Stats',
-    info: 'A website to keep track on how the virus is affecting the world and country daily.',
-    info2: '',
-    url: 'https://mc-coronavirusstats.netlify.app/Country',
-    repo: 'https://github.com/mchuong1/CoronaVirusStats', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'Corona Virus Stats.png',
+  //   title: 'Covid19 Virus Stats',
+  //   info: 'A website to keep track on how the virus is affecting the world and country daily.',
+  //   info2: '',
+  //   url: 'https://mc-coronavirusstats.netlify.app/Country',
+  //   repo: 'https://github.com/mchuong1/CoronaVirusStats', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'dayInthelife.png',
