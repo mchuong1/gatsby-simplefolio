@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'dayInthelife.png',
     title: 'Day In The Life',
     info: "An application that will let you see what it's like to be someone else for the day.",
-    info2: '',
+    info2: 'Made with ReactJS, NodeJS, and ExpressJS. Deployed with netlify and render',
     url: 'https://dayinthelife-mc.netlify.app/',
     repo: 'https://github.com/mchuong1/DayInTheLife', // if no repo, the button will not show up
   },
